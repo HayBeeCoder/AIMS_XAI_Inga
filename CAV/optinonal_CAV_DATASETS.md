@@ -8,8 +8,8 @@ Follow these links to download the datasets yourself.
 
 1. **Create account**: https://huggingface.co/join
 2. **Get ImageNet access**: https://huggingface.co/datasets/ILSVRC/imagenet-1k
-   - Click "Access repository" and fill the form
-   - Wait for email approval
+   - Click "Access repository"
+
 3. **Get your token**: https://huggingface.co/settings/tokens
    - Create a new token and save it
 
@@ -29,12 +29,11 @@ Follow these links to download the datasets yourself.
 ### DTD (Textures Dataset)
 - **Dataset page**: https://huggingface.co/datasets/cansa/Describable-Textures-Dataset-DTD
 - **What you need**: Download "striped" and "dotted" texture images
-- **Number**: ~120 of each
+
 
 ### ImageNet (Zebra Images)
 - **Dataset page**: https://huggingface.co/datasets/ILSVRC/imagenet-1k
 - **What you need**: Filter for zebra class (label 340)
-- **Number**: ~1,300-1,400 images
 
 ---
 
